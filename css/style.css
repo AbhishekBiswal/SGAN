@@ -56,6 +56,7 @@ h1, h2, h3, h4
 	text-decoration: none !important;
 	color: #888 !important;
 	text-transform: uppercase !important;
+	font-family: "PT Sans Narrow", Arial, sans-serif;
 	transition: color 0.3s;
 	-webkit-transition: color 0.3s;
 	-o-transition: color 0.3s;
@@ -64,6 +65,5 @@ h1, h2, h3, h4
 }
 .pure-menu a:hover, .pure-menu a.active
 {
-	color: #607848 !important;
-	font-weight: bold;
+	color: #0B2E59 !important;
 }
