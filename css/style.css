@@ -9,6 +9,11 @@ h1, h2, h3, h4
 	font-family: 'PT Sans Narrow', sans-serif;
 }
 
+.content-w
+{
+	padding-top: 80px !important;
+}
+
 .portfolio img, .partners img
 {
 	height: 70px;
@@ -67,6 +72,11 @@ h1, h2, h3, h4
 	margin-bottom: 80px;
 }
 
+.pure-menu ul
+{
+	line-height: 80px;
+}
+
 .pure-menu a
 {
 	text-decoration: none !important;
@@ -89,4 +99,9 @@ h1, h2, h3, h4
 {
 	color: #0B2E59;
 	text-decoration: none;
+}
+
+.logo
+{
+	height: 80px;
 }
