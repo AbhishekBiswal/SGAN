@@ -1,6 +1,6 @@
 /*
-    Blue : ##0B2E59;
-    Green : #0B2E59;
+    Blue : ##04882D;
+    Green : #04882D;
 */
 
 * {
@@ -76,7 +76,7 @@ label {
  * I want my pure-button elements to look a little different
  */
 .pure-button {
-    background-color: #0B2E59;
+    background-color: #04882D;
     color: white;
     padding: 0.5em 2em;
     border-radius: 5px;
@@ -84,7 +84,7 @@ label {
 
 a.pure-button-primary {
     background: white;
-    color: #0B2E59;
+    color: #04882D;
     border-radius: 5px;
     font-size: 120%;
 }
@@ -217,7 +217,7 @@ a.pure-button-primary {
 
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
-    color: #0B2E59;
+    color: #04882D;
 }
     .content-subhead i {
         margin-right: 7px;

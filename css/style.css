@@ -92,12 +92,12 @@ h1, h2, h3, h4
 }
 .pure-menu a:hover, .pure-menu a.active
 {
-	color: #0B2E59 !important;
+	color: #04882D !important;
 }
 
 .content-subhead a
 {
-	color: #0B2E59;
+	color: #04882D;
 	text-decoration: none;
 }
 
