@@ -110,3 +110,14 @@ h1.splash-head, h1#about
 {
 	height: 80px;
 }
+
+.content p
+{
+	max-width: 720px;
+	margin: 0 auto;
+	font-size: 130%;
+	line-height: 1.4;
+	margin-bottom: 30px;
+	color: #333;
+	padding: 0 20px;
+}
