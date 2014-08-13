@@ -130,3 +130,13 @@ h1.splash-head, h1#about
 {
 	font-size: 100%;
 }
+
+.splash
+{
+	width: 100% !important;
+}
+address
+{
+	font-size: 150%;
+	line-height: 1.4;
+}
