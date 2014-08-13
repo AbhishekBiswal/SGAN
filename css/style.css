@@ -9,6 +9,10 @@ h1, h2, h3, h4
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: #04882D !important;
 }
+a
+{
+	color: #04882D !important;
+}
 h1.splash-head, h1#about
 {
 	color: #f5f5f5 !important;
@@ -137,6 +141,8 @@ h1.splash-head, h1#about
 }
 address
 {
-	font-size: 150%;
+	font-size: 180%;
 	line-height: 1.4;
+	text-align: center;
+	font-style: normal;
 }
